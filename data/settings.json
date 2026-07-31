@@ -1,0 +1,17 @@
+{
+  "ball_color": [
+    255,
+    80,
+    80
+  ],
+  "paddle_color": [
+    240,
+    240,
+    240
+  ],
+  "ball_shape": "circle",
+  "sound_enabled": true,
+  "default_level": "medium",
+  "last_player_name": "Mohammad",
+  "background_theme": "ocean"
+}
